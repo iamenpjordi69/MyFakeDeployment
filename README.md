@@ -2,7 +2,7 @@ Fake news and other types of false information can take on different faces. They
 
 This project is our initiative to combat these impacts by providing users an easy way to check if the news is real or not.
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # Fake News Detection Website Project
 
 For getting news these days, one has an ‘n’ number of sources via the media. There are news channels, newspapers, magazines, websites, newsletters and much more. However , how does one determine which news is fake, which is not? At times, one gets perplexed. We do not know what  to believe, who to go to for the real meat at times.
