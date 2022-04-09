@@ -1,0 +1,14 @@
+{
+    "name": "MyFakeDeployment",
+    "description": "This is a Fake News Detection Website",
+    "author": "Radha",
+    "keywords": [
+        "fake news",
+        "website",
+        "python"
+    ],
+    "repository": "https://github.com/Radhasingh95/MyFakeDeployment",
+    "env":{
+        }
+    }
+}
